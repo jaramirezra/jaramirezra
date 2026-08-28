@@ -19,7 +19,9 @@ Adicionales: **PHPUnit**, **OpenAI API, agentes de codificación (Claude, ChatGP
 ### Proyects
 | Proyecto | Que es | Stack
 |---|---|---|
-| **Clon de Instagram** | Copia de las funcionalidades con las que cuenta la red social **Instagram** | Laravel 5.5 y Bootstrap 4
+| **Clon de Instagram** | Copia de las funcionalidades con las que cuenta la red social **Instagram** | Laravel 5.6, Bootstrap 4, PHP 7.1.3+
+| **Sistema POS** | Sistema de punto de venta para la administracion de inventario, proveedores con la generacion de cotizacion y facturacion | PHP 7.4 FPM, Nginx, MySQL 5.7 y Laravel 5.5
+| **Sistema POS con PHP nativo** | Sistema de punto de venta para la administracion de inventario, proveedores con la generacion de cotizacion y facturacion | php 7.1 y Bootstrap 3
 
 ### Information
 
